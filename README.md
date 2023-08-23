@@ -4,11 +4,12 @@ This is a solution to the [Newsletter sign-up form with success message challeng
 
 ## Frontend Mentor - Newsletter sign-up form with success message solution
 
-![Design preview for the Age calculator app coding challenge](./design/desktop-preview.jpg)
+![Newsletter sign-up form with success message challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
 
-This is my solution for Age calculator app. An exellent challange to practice on your front end skills
+This is my solution for Newsletter sign-up form with success message challenge.
+An good challange to practice on your front end skills
 
 ## Table of contents
 
